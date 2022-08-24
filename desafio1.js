@@ -15,5 +15,4 @@ function teste(valor) {
 
     return sum;
 }
-
 console.log(teste(11));
